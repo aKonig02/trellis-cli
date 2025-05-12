@@ -1,0 +1,6 @@
+*.log
+node_modules/
+build/
+*.pyc
+.DS_Store
+.env
